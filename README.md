@@ -1,2 +1,2 @@
 # Assistente Pessoal
-Sistema para auxílio em tarefas do dia-a-dia.
+Sistema para auxílio em tarefas do dia a dia.
